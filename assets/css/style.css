@@ -51,7 +51,6 @@ h1, h2, h3, h4, h5, h6 {
   filter: grayscale(100%);
 }
 
-
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -400,7 +399,6 @@ section .container {
 .about-me .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: rgb(179,179,179);
 }
 
 .about-me .content p:last-child {
