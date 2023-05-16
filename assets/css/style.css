@@ -34,12 +34,7 @@ body::before {
   }
 }
 
-a {
-  color: rgb(179,179,179);
-}
-
 a:hover {
-  color: rgb(179,179,179);
   text-decoration: none;
 }
 
